@@ -34,6 +34,7 @@ other and tell people why *openness*, *innovation* and *opportunity* on the
 web is so important.
 
 Some of things I talked about at MozFest, which will influence my next year:
+
 - The importance and power of young developers.
 - Motivating students to get a Mozilla Club or Community
 - How to do good talks.
