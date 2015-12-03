@@ -39,9 +39,9 @@ Some of things I talked about at MozFest, which will influence my next year:
 - Motivating students to get a Mozilla Club or Community
 - How to do good talks.
 
- After this experience, I guess my yearly attendance to MozFest is set in
- stone. And I recommend this to everyone who is interested in an open web,
- a world of empowered people or maybe just loves Mozilla.
+After this experience, I guess my yearly attendance to MozFest is set in
+stone. And I recommend this to everyone who is interested in an open web,
+a world of empowered people or maybe just loves Mozilla.
 
 See you at MozFest 2016!
 
